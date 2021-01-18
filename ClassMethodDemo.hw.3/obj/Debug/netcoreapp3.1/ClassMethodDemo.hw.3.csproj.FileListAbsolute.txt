@@ -1,0 +1,13 @@
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.exe
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.deps.json
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.runtimeconfig.json
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.runtimeconfig.dev.json
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.dll
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\bin\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.pdb
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.csprojAssemblyReference.cache
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.AssemblyInfoInputs.cache
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.AssemblyInfo.cs
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.csproj.CoreCompileInputs.cache
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.dll
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.pdb
+E:\EnginDemirog\kampIntro\ClassMethodDemo.hw.3\obj\Debug\netcoreapp3.1\ClassMethodDemo.hw.3.genruntimeconfig.cache
